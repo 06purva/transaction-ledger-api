@@ -1,4 +1,4 @@
-# transaction ledger api
+# Transaction Ledger API
 
 A RESTful transaction ledger API built with **Node.js, TypeScript, Fastify, Prisma, and PostgreSQL**. It supports account creation, credit and debit transactions, balance inquiries, transaction history, and atomic transfers between accounts.
 
